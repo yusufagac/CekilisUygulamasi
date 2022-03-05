@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\CekilisUygulamasi\bin\Debug\net6.0-windows\CekilisUygulamasi.exe
+C:\Users\PC\source\repos\CekilisUygulamasi\bin\Debug\net6.0-windows\CekilisUygulamasi.deps.json
+C:\Users\PC\source\repos\CekilisUygulamasi\bin\Debug\net6.0-windows\CekilisUygulamasi.runtimeconfig.json
+C:\Users\PC\source\repos\CekilisUygulamasi\bin\Debug\net6.0-windows\CekilisUygulamasi.dll
+C:\Users\PC\source\repos\CekilisUygulamasi\bin\Debug\net6.0-windows\CekilisUygulamasi.pdb
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.Form1.resources
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.AssemblyInfo.cs
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.dll
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\refint\CekilisUygulamasi.dll
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.pdb
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\CekilisUygulamasi.genruntimeconfig.cache
+C:\Users\PC\source\repos\CekilisUygulamasi\obj\Debug\net6.0-windows\ref\CekilisUygulamasi.dll
